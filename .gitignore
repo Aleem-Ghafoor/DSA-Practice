@@ -1,0 +1,17 @@
+﻿# Build outputs
+*.exe
+*.out
+*.o
+*.obj
+app
+out
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+tempCodeRunnerFile.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
